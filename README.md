@@ -1,5 +1,8 @@
 # Academic Deadlines Countdown
-http://uhh-lt.github.io/academic_countdown/
+http://aiboxlab.github.io/academic_countdown/
+
+# Other conference references
+https://aideadlin.es/?sub=ML,DM,CV,NLP
 
 ## Enter a new deadline via github.com:
   - click on data.json
