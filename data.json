@@ -1,5 +1,11 @@
 [
 	{
+		"venue": "BRACIS / ENIAC (CfP TBD)",
+		"area": "AI",
+		"link": "http://www.bracis2019.ufba.br/",
+		"deadline": "May 05, 2019, 23:59 UTC+0"
+	},
+	{
 		"venue": "RANLP",
 		"area": "CL",
 		"link": "http://lml.bas.bg/ranlp2019/firstCfP.php",
