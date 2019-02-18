@@ -4,6 +4,9 @@ http://aiboxlab.github.io/academic_countdown/
 # Other conference references
 https://aideadlin.es/?sub=ML,DM,CV,NLP
 
+# Conference Acceptance Rates
+https://github.com/lixin4ever/Conference-Acceptance-Rate
+
 ## Enter a new deadline via github.com:
   - click on data.json
   - click on the button with the pen which says "Edit this file" 
