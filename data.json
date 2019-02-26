@@ -1,5 +1,11 @@
 [
 	{
+		"venue": "PIBIC/FACEPE",
+		"area": "ED",
+		"link": "http://www.facepe.br/wp-content/uploads/2019/02/Edital-FACEPE-02-2019-PIBIC2.pdf",
+		"deadline": "April 15, 2019, 23:59 UTC+0"
+	},
+	{
 		"venue": "RECSYS",
 		"area": "RS",
 		"link": "https://recsys.acm.org/recsys19/dates/",
